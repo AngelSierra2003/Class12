@@ -1,8 +1,12 @@
   
         /* Estilos para el encabezado */
+        html{
+            background-color: aquamarine;
+        }
         header {
             text-align: center;
             padding: 20px;
+            color: rgb(0, 0, 0);
         }
 
         /* Estilos para el menú de navegación */
