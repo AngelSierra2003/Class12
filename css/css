@@ -1,0 +1,46 @@
+  
+        /* Estilos para el encabezado */
+        header {
+            text-align: center;
+            padding: 20px;
+        }
+
+        /* Estilos para el menú de navegación */
+        nav {
+            text-align: center;
+            word-spacing: 30px;
+            padding: 10px;
+        }
+
+        /* Diseño de la disposición de dos columnas */
+        * {
+            box-sizing: border-box;
+        }
+
+        .row {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .post-text-box {
+            flex: 70%;
+            padding: 20px;
+        }
+
+        .profile {
+            flex: 70%;
+            padding: 20px;
+        }
+
+        /* Estilos para la imagen de perfil y el título */
+        .profile img {
+     
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .profile h1 {
+            text-align: center;
+        }
+ 
